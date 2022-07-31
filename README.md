@@ -1,2 +1,7 @@
-# sasa
-งานก็อบโค้ดมาเเก้ส่งครู
+# สิ่งที่ต้องลง
+
+> pip install numpy
+
+<br>
+
+> pip install opencv-python
